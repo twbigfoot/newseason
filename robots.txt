@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+
+Allow: /
+
+Sitemap: https://www.newseason.com.tw/sitemap.xml
+Sitemap: https://www.newseason.com.tw/image-sitemap.xml
